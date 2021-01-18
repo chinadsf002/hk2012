@@ -1,7 +1,7 @@
 ---
 weight:      11
 title:       " 月份导航 "
-date:        2020-05-13T13:55:07-07:00
+date:        2021-01-14T23:59:27-08:00
 XXresImgTeaser: teaserpics/pixabay.com/monitor-1307227_640.jpg
 description: >
     月份导航
@@ -29,17 +29,16 @@ categories:
 {{< mydiv4o link="https://hk2008.chinadsf.org/"   text="hk2008   2020年8月的新聞0" >}}
 {{< mydiv4o link="https://hk2009.chinadsf.org/"   text="hk2009   2020年9月的新聞0" >}}
 {{< mydiv4o link="https://hk2010.chinadsf.org/"   text="hk2010   2020年10月的新聞0" >}}
-
-{{< mybrline1 color="blue" >}}
-
 {{< mydiv4o link="https://hk2011.chinadsf.org/"   text="hk2011   2020年11月的新聞"  >}}
-{{< mydiv4o link="https://hk2011a.chinadsf.org/"  text="hk2011a  2020年11月的新聞a" >}}
-{{< mydiv4o link="https://hk2011b.chinadsf.org/"  text="hk2011b  2020年11月的新聞b" bg="lightsteelblue" >}}
+{{< mydiv4o link="https://chinadsf002.github.io/hk2011b/"  text="hk2011b  2020年11月的新聞b" >}}
 
 {{< mybrline1 color="blue" >}}
 
-{{< mydiv4o link="https://hk2012.chinadsf.org/"   text="hk2012   2020年12月的新聞">}}
-{{< mydiv4o link="https://hk2101.chinadsf.org/"   text="hk2101   2021年1月的新聞">}}
+{{< mydiv4o link="https://chinadsf002.github.io/hk2012/"   text="hk2012   2020年12月的新聞"  bg="lightsteelblue" >}}
+
+{{< mybrline1 color="blue" >}}
+
+{{< mydiv4o link="https://chinadsf002.github.io/hk2101/"   text="hk2101   2021年1月的新聞"   >}}
 
 {{< mybrline1 >}}
 
